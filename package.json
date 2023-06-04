@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "vite-plugin-test": "^0.0.5"
+  }
+}
